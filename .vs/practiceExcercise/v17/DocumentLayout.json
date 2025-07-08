@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\82106\\source\\repos\\Practices\\Practice\\Practice\\practiceExcercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\82106\\source\\repos\\Practices\\Practice\\Practice\\CarBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF345ADA-8031-4882-9330-3BAE80B60432}|practiceExcercise2\\practiceExcercise2.csproj|c:\\users\\82106\\source\\repos\\practices\\practice\\practice\\practiceexcercise\\practiceexcercise2\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF345ADA-8031-4882-9330-3BAE80B60432}|practiceExcercise2\\practiceExcercise2.csproj|solutionrelative:practiceexcercise2\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF345ADA-8031-4882-9330-3BAE80B60432}|practiceExcercise2\\practiceExcercise2.csproj|c:\\users\\82106\\source\\repos\\practices\\practice\\practice\\practiceexcercise\\practiceexcercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF345ADA-8031-4882-9330-3BAE80B60432}|practiceExcercise2\\practiceExcercise2.csproj|solutionrelative:practiceexcercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B245103C-14D5-4696-9B2A-62943A3D9152}|practiceExcercise\\practiceExcercise.csproj|c:\\users\\82106\\source\\repos\\practices\\practice\\practice\\practiceexcercise\\practiceexcercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B245103C-14D5-4696-9B2A-62943A3D9152}|practiceExcercise\\practiceExcercise.csproj|solutionrelative:practiceexcercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5160FC57-7229-44ED-ADAC-05B63F7EE2F3}|practiceExcercise3\\practiceExcercise3.csproj|c:\\users\\82106\\source\\repos\\practices\\practice\\practice\\practiceexcercise\\practiceexcercise3\\stackoverflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5160FC57-7229-44ED-ADAC-05B63F7EE2F3}|practiceExcercise3\\practiceExcercise3.csproj|solutionrelative:practiceexcercise3\\stackoverflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5160FC57-7229-44ED-ADAC-05B63F7EE2F3}|practiceExcercise3\\practiceExcercise3.csproj|c:\\users\\82106\\source\\repos\\practices\\practice\\practice\\practiceexcercise\\practiceexcercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5160FC57-7229-44ED-ADAC-05B63F7EE2F3}|practiceExcercise3\\practiceExcercise3.csproj|solutionrelative:practiceexcercise3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B245103C-14D5-4696-9B2A-62943A3D9152}|practiceExcercise\\practiceExcercise.csproj|c:\\users\\82106\\source\\repos\\practices\\practice\\practice\\practiceexcercise\\practiceexcercise\\stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B245103C-14D5-4696-9B2A-62943A3D9152}|practiceExcercise\\practiceExcercise.csproj|solutionrelative:practiceexcercise\\stopwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarBase.cs",
+              "DocumentMoniker": "C:\\Users\\82106\\source\\repos\\Practices\\Practice\\Practice\\CarBase.cs",
+              "RelativeDocumentMoniker": "..\\CarBase.cs",
+              "ToolTip": "C:\\Users\\82106\\source\\repos\\Practices\\Practice\\Practice\\CarBase.cs",
+              "RelativeToolTip": "..\\CarBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:58:34.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StackOverflow.cs",
+              "DocumentMoniker": "C:\\Users\\82106\\source\\repos\\Practices\\Practice\\Practice\\practiceExcercise\\practiceExcercise3\\StackOverflow.cs",
+              "RelativeDocumentMoniker": "practiceExcercise3\\StackOverflow.cs",
+              "ToolTip": "C:\\Users\\82106\\source\\repos\\Practices\\Practice\\Practice\\practiceExcercise\\practiceExcercise3\\StackOverflow.cs",
+              "RelativeToolTip": "practiceExcercise3\\StackOverflow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:54:31.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\82106\\source\\repos\\Practices\\Practice\\Practice\\practiceExcercise\\practiceExcercise3\\Program.cs",
+              "RelativeDocumentMoniker": "practiceExcercise3\\Program.cs",
+              "ToolTip": "C:\\Users\\82106\\source\\repos\\Practices\\Practice\\Practice\\practiceExcercise\\practiceExcercise3\\Program.cs",
+              "RelativeToolTip": "practiceExcercise3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:53:50.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "C:\\Users\\82106\\source\\repos\\Practices\\Practice\\Practice\\practiceExcercise\\practiceExcercise2\\Stack.cs",
+              "RelativeDocumentMoniker": "practiceExcercise2\\Stack.cs",
+              "ToolTip": "C:\\Users\\82106\\source\\repos\\Practices\\Practice\\Practice\\practiceExcercise\\practiceExcercise2\\Stack.cs",
+              "RelativeToolTip": "practiceExcercise2\\Stack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:43:57.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\82106\\source\\repos\\Practices\\Practice\\Practice\\practiceExcercise\\practiceExcercise2\\Program.cs",
+              "RelativeDocumentMoniker": "practiceExcercise2\\Program.cs",
+              "ToolTip": "C:\\Users\\82106\\source\\repos\\Practices\\Practice\\Practice\\practiceExcercise\\practiceExcercise2\\Program.cs",
+              "RelativeToolTip": "practiceExcercise2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:43:24.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stopwatch.cs",
+              "DocumentMoniker": "C:\\Users\\82106\\source\\repos\\Practices\\Practice\\Practice\\practiceExcercise\\practiceExcercise\\Stopwatch.cs",
+              "RelativeDocumentMoniker": "practiceExcercise\\Stopwatch.cs",
+              "ToolTip": "C:\\Users\\82106\\source\\repos\\Practices\\Practice\\Practice\\practiceExcercise\\practiceExcercise\\Stopwatch.cs",
+              "RelativeToolTip": "practiceExcercise\\Stopwatch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:37:01.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\82106\\source\\repos\\Practices\\Practice\\Practice\\practiceExcercise\\practiceExcercise\\Program.cs",
+              "RelativeDocumentMoniker": "practiceExcercise\\Program.cs",
+              "ToolTip": "C:\\Users\\82106\\source\\repos\\Practices\\Practice\\Practice\\practiceExcercise\\practiceExcercise\\Program.cs*",
+              "RelativeToolTip": "practiceExcercise\\Program.cs*",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAjwBIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:42:47.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

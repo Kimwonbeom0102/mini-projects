@@ -1,0 +1,14 @@
+C:\Users\82106\source\repos\Practices\Practice\Practice\practiceExcercise\practiceExcercise\bin\Debug\net8.0\practiceExcercise.exe
+C:\Users\82106\source\repos\Practices\Practice\Practice\practiceExcercise\practiceExcercise\bin\Debug\net8.0\practiceExcercise.deps.json
+C:\Users\82106\source\repos\Practices\Practice\Practice\practiceExcercise\practiceExcercise\bin\Debug\net8.0\practiceExcercise.runtimeconfig.json
+C:\Users\82106\source\repos\Practices\Practice\Practice\practiceExcercise\practiceExcercise\bin\Debug\net8.0\practiceExcercise.dll
+C:\Users\82106\source\repos\Practices\Practice\Practice\practiceExcercise\practiceExcercise\bin\Debug\net8.0\practiceExcercise.pdb
+C:\Users\82106\source\repos\Practices\Practice\Practice\practiceExcercise\practiceExcercise\obj\Debug\net8.0\practiceExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82106\source\repos\Practices\Practice\Practice\practiceExcercise\practiceExcercise\obj\Debug\net8.0\practiceExcercise.AssemblyInfoInputs.cache
+C:\Users\82106\source\repos\Practices\Practice\Practice\practiceExcercise\practiceExcercise\obj\Debug\net8.0\practiceExcercise.AssemblyInfo.cs
+C:\Users\82106\source\repos\Practices\Practice\Practice\practiceExcercise\practiceExcercise\obj\Debug\net8.0\practiceExcercise.csproj.CoreCompileInputs.cache
+C:\Users\82106\source\repos\Practices\Practice\Practice\practiceExcercise\practiceExcercise\obj\Debug\net8.0\practiceExcercise.dll
+C:\Users\82106\source\repos\Practices\Practice\Practice\practiceExcercise\practiceExcercise\obj\Debug\net8.0\refint\practiceExcercise.dll
+C:\Users\82106\source\repos\Practices\Practice\Practice\practiceExcercise\practiceExcercise\obj\Debug\net8.0\practiceExcercise.pdb
+C:\Users\82106\source\repos\Practices\Practice\Practice\practiceExcercise\practiceExcercise\obj\Debug\net8.0\practiceExcercise.genruntimeconfig.cache
+C:\Users\82106\source\repos\Practices\Practice\Practice\practiceExcercise\practiceExcercise\obj\Debug\net8.0\ref\practiceExcercise.dll

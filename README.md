@@ -8,9 +8,10 @@ C# 학습을 위한 실습/예제 프로젝트 모음입니다.
 
 | 폴더명               | 설명                                         |
 |----------------------|----------------------------------------------|
-| `practiceExcercise`  |  스톱워치 만들기 – 콘솔 기반 타이머 기능 구현 |
-| `practiceExcercise2` |  Stack 클래스 직접 설계 – 자료구조 구현 실습 |
-| `practiceExcercise3` |  StackOverflow 게시물 – 게시판 UI 콘솔 예제  |
+| `Stopwatch`  |  스톱워치 만들기 – 콘솔 기반 타이머 기능 구현 |
+| `Stack` |  Stack 클래스 직접 설계 – 자료구조 구현 실습 |
+| `StackOverflow` |  StackOverflow 게시물 – 게시판 UI 콘솔 예제  |
+| `DataBaseConnecting`   | 간단한 DB 연결 테스트 – ADO.NET을 이용한 SQL 연결 실습     |
 
 ---
 

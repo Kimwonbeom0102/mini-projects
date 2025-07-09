@@ -1,0 +1,15 @@
+C:\Users\82106\source\repos\Practices\Practice\practiceExcercise\DataBaseConnecting\bin\Debug\net8.0\DataBaseConnecting.exe
+C:\Users\82106\source\repos\Practices\Practice\practiceExcercise\DataBaseConnecting\bin\Debug\net8.0\DataBaseConnecting.deps.json
+C:\Users\82106\source\repos\Practices\Practice\practiceExcercise\DataBaseConnecting\bin\Debug\net8.0\DataBaseConnecting.runtimeconfig.json
+C:\Users\82106\source\repos\Practices\Practice\practiceExcercise\DataBaseConnecting\bin\Debug\net8.0\DataBaseConnecting.dll
+C:\Users\82106\source\repos\Practices\Practice\practiceExcercise\DataBaseConnecting\bin\Debug\net8.0\DataBaseConnecting.pdb
+C:\Users\82106\source\repos\Practices\Practice\practiceExcercise\DataBaseConnecting\obj\Debug\net8.0\DataBaseConnecting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82106\source\repos\Practices\Practice\practiceExcercise\DataBaseConnecting\obj\Debug\net8.0\DataBaseConnecting.AssemblyInfoInputs.cache
+C:\Users\82106\source\repos\Practices\Practice\practiceExcercise\DataBaseConnecting\obj\Debug\net8.0\DataBaseConnecting.AssemblyInfo.cs
+C:\Users\82106\source\repos\Practices\Practice\practiceExcercise\DataBaseConnecting\obj\Debug\net8.0\DataBaseConnecting.csproj.CoreCompileInputs.cache
+C:\Users\82106\source\repos\Practices\Practice\practiceExcercise\DataBaseConnecting\obj\Debug\net8.0\DataBaseConnecting.sourcelink.json
+C:\Users\82106\source\repos\Practices\Practice\practiceExcercise\DataBaseConnecting\obj\Debug\net8.0\DataBaseConnecting.dll
+C:\Users\82106\source\repos\Practices\Practice\practiceExcercise\DataBaseConnecting\obj\Debug\net8.0\refint\DataBaseConnecting.dll
+C:\Users\82106\source\repos\Practices\Practice\practiceExcercise\DataBaseConnecting\obj\Debug\net8.0\DataBaseConnecting.pdb
+C:\Users\82106\source\repos\Practices\Practice\practiceExcercise\DataBaseConnecting\obj\Debug\net8.0\DataBaseConnecting.genruntimeconfig.cache
+C:\Users\82106\source\repos\Practices\Practice\practiceExcercise\DataBaseConnecting\obj\Debug\net8.0\ref\DataBaseConnecting.dll
